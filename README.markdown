@@ -6,7 +6,7 @@ Prints a list of tests that take too long.
 Installation
 ------------
 
-    gem instal minitest-snail
+    gem install minitest-snail
     
 Usage
 -----
